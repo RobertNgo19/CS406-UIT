@@ -1,0 +1,11 @@
+#Thựchành
+• Yêu cầu: viết các hàm
+1. Đọc và hiển thị ảnh
+• Đọc ảnh Lena.jpg
+• Hiển thị ảnh tương ứng với 3 thành phần màu: R, G, B
+• Chuyển đổi ảnh sang ảnh mức xám và hiển thị ảnh kết quả
+• Chuyển đổi ảnh sang ảnh nhị phân và hiển thị ảnh kết quả
+2. Tăng độ sáng và độ tương phản (nhập khi thực thi) cho
+ảnh: forest.tif hoặc field.jpg
+3. Áp dụng phép lấy ngưỡng cho ảnh: rice.png
+4. Invert cho ảnh: kids.tif
