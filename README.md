@@ -6,8 +6,8 @@
 </p>
 <h1 align="center"><b>Image Processing and Applications</b></h>
 
-## SINH VIÊN
- MSSV          | Họ và Tên              | Github                    | Email                   |
+## Student
+ MSSV          | Full Name             | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
  19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
  
