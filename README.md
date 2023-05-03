@@ -20,9 +20,8 @@
 
  ## Ngôn Ngữ Lập Trình: Python
  ## Project: Face Expression Regconition
-  - File báo cáo: [Report](https://github.com/RobertNgo19/Face-Expression-w-DL/blob/main/Project/B%C3%A1o-C%C3%A1o.pdf)
- ## Implement
- - Folder: [Code](https://github.com/RobertNgo19/Face-Expression-w-DL/tree/main/Project)
+ - File báo cáo: [Report](https://github.com/RobertNgo19/Face-Expression-w-DL/blob/main/Project/B%C3%A1o-C%C3%A1o.pdf)
+ - Code: [Code](https://github.com/RobertNgo19/Face-Expression-w-DL/tree/main/Project)
 
 
  
