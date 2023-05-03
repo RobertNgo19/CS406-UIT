@@ -19,5 +19,7 @@
 * **Giảng viên**: TS.Mai Tiến Dũng
 
  ## Ngôn Ngữ Lập Trình: Python
+ ## Project: Face Expression Regconition
+  - File báo cáo: [Final Report](https://github.com/RobertNgo19/Face-Expression-w-DL/blob/main/Project/B%C3%A1o-C%C3%A1o.pdf)
 
  
