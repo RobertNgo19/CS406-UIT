@@ -9,7 +9,7 @@
 ## SINH VIÊN
  MSSV          | Họ và Tên              | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
- 19521994      | Ngô Thành Phát         |https://github.com/Pakm19  |19521994@gm.uit.edu.vn   |
+ 19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
  
  ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Xử lý ảnh và Ứng dụng
