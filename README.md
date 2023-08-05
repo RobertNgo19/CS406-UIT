@@ -7,20 +7,20 @@
 <h1 align="center"><b>Image Processing and Applications</b></h>
 
 ## Student
- MSSV          | Full Name             | Github                    | Email                   |
+ ID          | Full Name             | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
- 19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
+ 19521994      | Ngo Thanh Phat         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
  
  ## COURSE INTRODUCTION
 * **Subject Title:** Image Processing and Applications
 * **Subject Code:** CS406
-* **Class Code:** CS406.N11.KHCL - VN
-* **Lecturers**: TS.Mai Tiến Dũng
+*  Hello everyone, in this repo I introduce Image Processing. This is one of the best practices for me to start my AI career.
+> Note: All knowledge **belonging to UIT** just use for study and research only
 
  ## Programing Language: Python
- ## Project: Face Expression Regconition
- - File Report: [Report](https://github.com/RobertNgo19/Face-Expression-w-DL/blob/main/Project/B%C3%A1o-C%C3%A1o.pdf)
- - Code: [Code](https://github.com/RobertNgo19/Face-Expression-w-DL/tree/main/Project)
+ ## Project: Face Expression Recognition
+ ### - File Report: [Report](https://github.com/RobertNgo19/Face-Expression-w-DL/blob/main/Project/B%C3%A1o-C%C3%A1o.pdf)
+ ### - Source: [Code](https://github.com/RobertNgo19/Face-Expression-w-DL/tree/main/Project)
 
 
  
