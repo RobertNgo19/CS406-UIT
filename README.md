@@ -12,8 +12,8 @@
  19521994      | Ngo Thanh Phat         |https://github.com/RobertNgo19  |thanhphat352@gmail.com  |
  
  ## COURSE INTRODUCTION
-* **Subject Title:** Image Processing and Applications
-* **Subject Code:** CS406
+* **Title:** Image Processing and Applications
+* **Code:** CS406
 *  Hello everyone, in this repo I introduce Image Processing. This is one of the best practices for me to start my AI career.
 > Note: All knowledge **belonging to UIT** just use for study and research only
 
